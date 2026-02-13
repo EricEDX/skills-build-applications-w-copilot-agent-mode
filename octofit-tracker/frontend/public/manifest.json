@@ -1,0 +1,21 @@
+{
+  "short_name": "OctoFit",
+  "name": "OctoFit Tracker - Fitness Tracking App",
+  "description": "Your ultimate fitness journey companion with activities, workouts, teams, and competitive leaderboards!",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "octofit-logo.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d6efd",
+  "background_color": "#f0f4f8"
+}
